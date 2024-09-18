@@ -15,6 +15,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/ParwinderBaidwan/LeetcodeQuestions/tree/master/0054-spiral-matrix) |
+| [0179-largest-number](https://github.com/ParwinderBaidwan/LeetcodeQuestions/tree/master/0179-largest-number) |
 | [2155-find-missing-observations](https://github.com/ParwinderBaidwan/LeetcodeQuestions/tree/master/2155-find-missing-observations) |
 ## Math
 |  |
@@ -36,9 +37,18 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## String
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/ParwinderBaidwan/LeetcodeQuestions/tree/master/0179-largest-number) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ParwinderBaidwan/LeetcodeQuestions/tree/master/0920-uncommon-words-from-two-sentences) |
 ## Counting
 |  |
 | ------- |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ParwinderBaidwan/LeetcodeQuestions/tree/master/0920-uncommon-words-from-two-sentences) |
+## Greedy
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/ParwinderBaidwan/LeetcodeQuestions/tree/master/0179-largest-number) |
+## Sorting
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/ParwinderBaidwan/LeetcodeQuestions/tree/master/0179-largest-number) |
 <!---LeetCode Topics End-->
