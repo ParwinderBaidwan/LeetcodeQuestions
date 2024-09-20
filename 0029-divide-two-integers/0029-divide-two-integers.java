@@ -5,11 +5,17 @@ class Solution {
              ans +=(-1)*(dividend + 1);
         }
         else{
-            int q=dividend/divisor;
-            int r=dividend%divisor;
-             ans +=q-r/divisor;
+            ans+=dividend/divisor;
+            // int r=dividend%divisor;
+            //  ans +=q-r/divisor;
         }
         
         return ans;
     }
 }
+
+// edge case
+// dividend =
+// -2147483648
+// divisor =
+// -1
