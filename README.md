@@ -20,6 +20,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/ParwinderBaidwan/LeetcodeQuestions/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/ParwinderBaidwan/LeetcodeQuestions/tree/master/0029-divide-two-integers) |
 | [0241-different-ways-to-add-parentheses](https://github.com/ParwinderBaidwan/LeetcodeQuestions/tree/master/0241-different-ways-to-add-parentheses) |
 | [2155-find-missing-observations](https://github.com/ParwinderBaidwan/LeetcodeQuestions/tree/master/2155-find-missing-observations) |
