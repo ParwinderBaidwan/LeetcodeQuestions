@@ -20,6 +20,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/ParwinderBaidwan/LeetcodeQuestions/tree/master/0029-divide-two-integers) |
 | [0241-different-ways-to-add-parentheses](https://github.com/ParwinderBaidwan/LeetcodeQuestions/tree/master/0241-different-ways-to-add-parentheses) |
 | [2155-find-missing-observations](https://github.com/ParwinderBaidwan/LeetcodeQuestions/tree/master/2155-find-missing-observations) |
 ## Simulation
@@ -65,4 +66,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/ParwinderBaidwan/LeetcodeQuestions/tree/master/0241-different-ways-to-add-parentheses) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/ParwinderBaidwan/LeetcodeQuestions/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
