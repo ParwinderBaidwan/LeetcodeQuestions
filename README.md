@@ -71,4 +71,12 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/ParwinderBaidwan/LeetcodeQuestions/tree/master/0029-divide-two-integers) |
+## Depth-First Search
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/ParwinderBaidwan/LeetcodeQuestions/tree/master/0386-lexicographical-numbers) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/ParwinderBaidwan/LeetcodeQuestions/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
