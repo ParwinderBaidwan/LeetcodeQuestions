@@ -77,6 +77,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/ParwinderBaidwan/LeetcodeQuestions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/ParwinderBaidwan/LeetcodeQuestions/tree/master/0386-lexicographical-numbers) |
 ## Trie
 |  |
@@ -84,4 +85,16 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0386-lexicographical-numbers](https://github.com/ParwinderBaidwan/LeetcodeQuestions/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/ParwinderBaidwan/LeetcodeQuestions/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/ParwinderBaidwan/LeetcodeQuestions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+## Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/ParwinderBaidwan/LeetcodeQuestions/tree/master/0104-maximum-depth-of-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/ParwinderBaidwan/LeetcodeQuestions/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/ParwinderBaidwan/LeetcodeQuestions/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
