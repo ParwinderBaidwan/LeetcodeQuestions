@@ -79,6 +79,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/ParwinderBaidwan/LeetcodeQuestions/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ParwinderBaidwan/LeetcodeQuestions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ParwinderBaidwan/LeetcodeQuestions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/ParwinderBaidwan/LeetcodeQuestions/tree/master/0386-lexicographical-numbers) |
 ## Trie
 |  |
@@ -91,6 +92,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/ParwinderBaidwan/LeetcodeQuestions/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ParwinderBaidwan/LeetcodeQuestions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ParwinderBaidwan/LeetcodeQuestions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -100,6 +102,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/ParwinderBaidwan/LeetcodeQuestions/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ParwinderBaidwan/LeetcodeQuestions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ParwinderBaidwan/LeetcodeQuestions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
