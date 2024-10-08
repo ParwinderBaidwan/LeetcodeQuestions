@@ -65,6 +65,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/ParwinderBaidwan/LeetcodeQuestions/tree/master/0021-merge-two-sorted-lists) |
 | [0241-different-ways-to-add-parentheses](https://github.com/ParwinderBaidwan/LeetcodeQuestions/tree/master/0241-different-ways-to-add-parentheses) |
 ## Memoization
 |  |
@@ -107,4 +108,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/ParwinderBaidwan/LeetcodeQuestions/tree/master/0098-validate-binary-search-tree) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/ParwinderBaidwan/LeetcodeQuestions/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
