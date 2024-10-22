@@ -17,6 +17,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0054-spiral-matrix](https://github.com/ParwinderBaidwan/LeetcodeQuestions/tree/master/0054-spiral-matrix) |
 | [0179-largest-number](https://github.com/ParwinderBaidwan/LeetcodeQuestions/tree/master/0179-largest-number) |
 | [1002-maximum-width-ramp](https://github.com/ParwinderBaidwan/LeetcodeQuestions/tree/master/1002-maximum-width-ramp) |
+| [1072-next-greater-node-in-linked-list](https://github.com/ParwinderBaidwan/LeetcodeQuestions/tree/master/1072-next-greater-node-in-linked-list) |
 | [2155-find-missing-observations](https://github.com/ParwinderBaidwan/LeetcodeQuestions/tree/master/2155-find-missing-observations) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ParwinderBaidwan/LeetcodeQuestions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/ParwinderBaidwan/LeetcodeQuestions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -121,6 +122,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0002-add-two-numbers](https://github.com/ParwinderBaidwan/LeetcodeQuestions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/ParwinderBaidwan/LeetcodeQuestions/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/ParwinderBaidwan/LeetcodeQuestions/tree/master/0141-linked-list-cycle) |
+| [1072-next-greater-node-in-linked-list](https://github.com/ParwinderBaidwan/LeetcodeQuestions/tree/master/1072-next-greater-node-in-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -130,10 +132,12 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [1002-maximum-width-ramp](https://github.com/ParwinderBaidwan/LeetcodeQuestions/tree/master/1002-maximum-width-ramp) |
+| [1072-next-greater-node-in-linked-list](https://github.com/ParwinderBaidwan/LeetcodeQuestions/tree/master/1072-next-greater-node-in-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [1002-maximum-width-ramp](https://github.com/ParwinderBaidwan/LeetcodeQuestions/tree/master/1002-maximum-width-ramp) |
+| [1072-next-greater-node-in-linked-list](https://github.com/ParwinderBaidwan/LeetcodeQuestions/tree/master/1072-next-greater-node-in-linked-list) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
