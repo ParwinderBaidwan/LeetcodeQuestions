@@ -18,6 +18,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0054-spiral-matrix](https://github.com/ParwinderBaidwan/LeetcodeQuestions/tree/master/0054-spiral-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ParwinderBaidwan/LeetcodeQuestions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0179-largest-number](https://github.com/ParwinderBaidwan/LeetcodeQuestions/tree/master/0179-largest-number) |
+| [0217-contains-duplicate](https://github.com/ParwinderBaidwan/LeetcodeQuestions/tree/master/0217-contains-duplicate) |
 | [1002-maximum-width-ramp](https://github.com/ParwinderBaidwan/LeetcodeQuestions/tree/master/1002-maximum-width-ramp) |
 | [1072-next-greater-node-in-linked-list](https://github.com/ParwinderBaidwan/LeetcodeQuestions/tree/master/1072-next-greater-node-in-linked-list) |
 | [2155-find-missing-observations](https://github.com/ParwinderBaidwan/LeetcodeQuestions/tree/master/2155-find-missing-observations) |
@@ -45,6 +46,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0001-two-sum](https://github.com/ParwinderBaidwan/LeetcodeQuestions/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/ParwinderBaidwan/LeetcodeQuestions/tree/master/0141-linked-list-cycle) |
+| [0217-contains-duplicate](https://github.com/ParwinderBaidwan/LeetcodeQuestions/tree/master/0217-contains-duplicate) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ParwinderBaidwan/LeetcodeQuestions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/ParwinderBaidwan/LeetcodeQuestions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## String
@@ -67,6 +69,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/ParwinderBaidwan/LeetcodeQuestions/tree/master/0179-largest-number) |
+| [0217-contains-duplicate](https://github.com/ParwinderBaidwan/LeetcodeQuestions/tree/master/0217-contains-duplicate) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ParwinderBaidwan/LeetcodeQuestions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Dynamic Programming
 |  |
