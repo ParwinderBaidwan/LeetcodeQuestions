@@ -14,6 +14,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ParwinderBaidwan/LeetcodeQuestions/tree/master/0001-two-sum) |
 | [0054-spiral-matrix](https://github.com/ParwinderBaidwan/LeetcodeQuestions/tree/master/0054-spiral-matrix) |
 | [0179-largest-number](https://github.com/ParwinderBaidwan/LeetcodeQuestions/tree/master/0179-largest-number) |
 | [1002-maximum-width-ramp](https://github.com/ParwinderBaidwan/LeetcodeQuestions/tree/master/1002-maximum-width-ramp) |
@@ -41,6 +42,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ParwinderBaidwan/LeetcodeQuestions/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/ParwinderBaidwan/LeetcodeQuestions/tree/master/0141-linked-list-cycle) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ParwinderBaidwan/LeetcodeQuestions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/ParwinderBaidwan/LeetcodeQuestions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
