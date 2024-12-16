@@ -18,6 +18,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0053-maximum-subarray](https://github.com/ParwinderBaidwan/LeetcodeQuestions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/ParwinderBaidwan/LeetcodeQuestions/tree/master/0054-spiral-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ParwinderBaidwan/LeetcodeQuestions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/ParwinderBaidwan/LeetcodeQuestions/tree/master/0152-maximum-product-subarray) |
 | [0179-largest-number](https://github.com/ParwinderBaidwan/LeetcodeQuestions/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/ParwinderBaidwan/LeetcodeQuestions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/ParwinderBaidwan/LeetcodeQuestions/tree/master/0238-product-of-array-except-self) |
@@ -78,6 +79,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0053-maximum-subarray](https://github.com/ParwinderBaidwan/LeetcodeQuestions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ParwinderBaidwan/LeetcodeQuestions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/ParwinderBaidwan/LeetcodeQuestions/tree/master/0152-maximum-product-subarray) |
 | [0241-different-ways-to-add-parentheses](https://github.com/ParwinderBaidwan/LeetcodeQuestions/tree/master/0241-different-ways-to-add-parentheses) |
 ## Recursion
 |  |
