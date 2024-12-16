@@ -15,6 +15,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ParwinderBaidwan/LeetcodeQuestions/tree/master/0001-two-sum) |
+| [0053-maximum-subarray](https://github.com/ParwinderBaidwan/LeetcodeQuestions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/ParwinderBaidwan/LeetcodeQuestions/tree/master/0054-spiral-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ParwinderBaidwan/LeetcodeQuestions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0179-largest-number](https://github.com/ParwinderBaidwan/LeetcodeQuestions/tree/master/0179-largest-number) |
@@ -75,6 +76,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/ParwinderBaidwan/LeetcodeQuestions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ParwinderBaidwan/LeetcodeQuestions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0241-different-ways-to-add-parentheses](https://github.com/ParwinderBaidwan/LeetcodeQuestions/tree/master/0241-different-ways-to-add-parentheses) |
 ## Recursion
@@ -155,4 +157,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/ParwinderBaidwan/LeetcodeQuestions/tree/master/0238-product-of-array-except-self) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ParwinderBaidwan/LeetcodeQuestions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/ParwinderBaidwan/LeetcodeQuestions/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
