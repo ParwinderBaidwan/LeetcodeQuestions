@@ -37,6 +37,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0002-add-two-numbers](https://github.com/ParwinderBaidwan/LeetcodeQuestions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/ParwinderBaidwan/LeetcodeQuestions/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/ParwinderBaidwan/LeetcodeQuestions/tree/master/0029-divide-two-integers) |
+| [0070-climbing-stairs](https://github.com/ParwinderBaidwan/LeetcodeQuestions/tree/master/0070-climbing-stairs) |
 | [0241-different-ways-to-add-parentheses](https://github.com/ParwinderBaidwan/LeetcodeQuestions/tree/master/0241-different-ways-to-add-parentheses) |
 | [2155-find-missing-observations](https://github.com/ParwinderBaidwan/LeetcodeQuestions/tree/master/2155-find-missing-observations) |
 ## Simulation
@@ -83,6 +84,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ParwinderBaidwan/LeetcodeQuestions/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/ParwinderBaidwan/LeetcodeQuestions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ParwinderBaidwan/LeetcodeQuestions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/ParwinderBaidwan/LeetcodeQuestions/tree/master/0152-maximum-product-subarray) |
 | [0241-different-ways-to-add-parentheses](https://github.com/ParwinderBaidwan/LeetcodeQuestions/tree/master/0241-different-ways-to-add-parentheses) |
@@ -95,6 +97,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/ParwinderBaidwan/LeetcodeQuestions/tree/master/0070-climbing-stairs) |
 | [0241-different-ways-to-add-parentheses](https://github.com/ParwinderBaidwan/LeetcodeQuestions/tree/master/0241-different-ways-to-add-parentheses) |
 ## Bit Manipulation
 |  |
