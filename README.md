@@ -16,6 +16,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0001-two-sum](https://github.com/ParwinderBaidwan/LeetcodeQuestions/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/ParwinderBaidwan/LeetcodeQuestions/tree/master/0015-3sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/ParwinderBaidwan/LeetcodeQuestions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/ParwinderBaidwan/LeetcodeQuestions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/ParwinderBaidwan/LeetcodeQuestions/tree/master/0054-spiral-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ParwinderBaidwan/LeetcodeQuestions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -129,6 +130,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Binary Search Tree
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/ParwinderBaidwan/LeetcodeQuestions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0098-validate-binary-search-tree](https://github.com/ParwinderBaidwan/LeetcodeQuestions/tree/master/0098-validate-binary-search-tree) |
 ## Linked List
 |  |
