@@ -22,6 +22,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ParwinderBaidwan/LeetcodeQuestions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ParwinderBaidwan/LeetcodeQuestions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/ParwinderBaidwan/LeetcodeQuestions/tree/master/0152-maximum-product-subarray) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/ParwinderBaidwan/LeetcodeQuestions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0179-largest-number](https://github.com/ParwinderBaidwan/LeetcodeQuestions/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/ParwinderBaidwan/LeetcodeQuestions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/ParwinderBaidwan/LeetcodeQuestions/tree/master/0238-product-of-array-except-self) |
@@ -134,6 +135,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0033-search-in-rotated-sorted-array](https://github.com/ParwinderBaidwan/LeetcodeQuestions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ParwinderBaidwan/LeetcodeQuestions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0098-validate-binary-search-tree](https://github.com/ParwinderBaidwan/LeetcodeQuestions/tree/master/0098-validate-binary-search-tree) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/ParwinderBaidwan/LeetcodeQuestions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 ## Linked List
 |  |
 | ------- |
