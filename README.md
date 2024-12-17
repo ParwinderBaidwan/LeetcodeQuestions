@@ -15,6 +15,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ParwinderBaidwan/LeetcodeQuestions/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/ParwinderBaidwan/LeetcodeQuestions/tree/master/0015-3sum) |
 | [0053-maximum-subarray](https://github.com/ParwinderBaidwan/LeetcodeQuestions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/ParwinderBaidwan/LeetcodeQuestions/tree/master/0054-spiral-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ParwinderBaidwan/LeetcodeQuestions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -71,6 +72,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/ParwinderBaidwan/LeetcodeQuestions/tree/master/0015-3sum) |
 | [0179-largest-number](https://github.com/ParwinderBaidwan/LeetcodeQuestions/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/ParwinderBaidwan/LeetcodeQuestions/tree/master/0217-contains-duplicate) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ParwinderBaidwan/LeetcodeQuestions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -138,6 +140,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/ParwinderBaidwan/LeetcodeQuestions/tree/master/0015-3sum) |
 | [0141-linked-list-cycle](https://github.com/ParwinderBaidwan/LeetcodeQuestions/tree/master/0141-linked-list-cycle) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ParwinderBaidwan/LeetcodeQuestions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Stack
