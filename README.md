@@ -61,6 +61,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ParwinderBaidwan/LeetcodeQuestions/tree/master/0020-valid-parentheses) |
 | [0179-largest-number](https://github.com/ParwinderBaidwan/LeetcodeQuestions/tree/master/0179-largest-number) |
 | [0241-different-ways-to-add-parentheses](https://github.com/ParwinderBaidwan/LeetcodeQuestions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ParwinderBaidwan/LeetcodeQuestions/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -158,6 +159,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ParwinderBaidwan/LeetcodeQuestions/tree/master/0020-valid-parentheses) |
 | [1002-maximum-width-ramp](https://github.com/ParwinderBaidwan/LeetcodeQuestions/tree/master/1002-maximum-width-ramp) |
 | [1072-next-greater-node-in-linked-list](https://github.com/ParwinderBaidwan/LeetcodeQuestions/tree/master/1072-next-greater-node-in-linked-list) |
 ## Monotonic Stack
